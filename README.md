@@ -1,6 +1,6 @@
 # Walmart Sales Time Series Forecasting
 
-![Walmart Logo](walmart_logo.png) 
+![Walmart Logo](Walmart_logo.png) 
 
 This project focuses on the time series forecasting of Walmart sales data using machine learning and deep learning techniques. It aims to predict weekly sales for various departments across different Walmart stores, taking into account historical sales data and holiday markdown events.
 
